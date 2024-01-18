@@ -1,0 +1,18 @@
+ID_Magnitud|Descripcion_Magnitud|Fórmula|Unidad_de_medida|ID_Tecnica_de_medida|Técnica_de_medida
+1|Dióxido de Azufre|SO2|μg/m 3|38|Fluorescencia ultravioleta
+6|Monóxido de Carbono|CO|mg/m3|48|Absorción infrarroja
+7|Monóxido de Nitrógeno|NO|μg/m3|8|Quimioluminiscencia
+8|Dióxido de Nitrógeno|NO2|μg/m 3|8|Quimioluminiscencia
+9|Partículas < 2.5 μm|PM2.5|μg/m3|47|Microbalanza
+10|Partículas < 10 μm|PM10|μg/m3|47|Microbalanza
+12|Óxidos de Nitrógeno|NOx|μg/m3|8|Quimioluminiscencia
+14|Ozono|O3|μg/m 3|6|Absorción ultravioleta
+20|Tolueno|TOL|μg/m3|59|Cromatografía de gases
+30|Benceno|BEN|μg/m3|59|Cromatografía de gases
+35|Etilbenceno|EBE|μg/m3|59|Cromatografía de gases
+37|Metaxileno|MXY|μg/m3|59|Cromatografía de gases
+38|Paraxileno|PXY|μg/m3|59|Cromatografía de gases
+39|Ortoxileno|OXY|μg/m3|59|Cromatografía de gases
+42|Hidrocarburos totales (hexano)|TCH|mg/m3|2|Ionización de llama
+43|Metano|CH4|mg/m3|2|Ionización de llama
+44|Hidrocarburos no metánicos (hexano)|NMHC|mg/m3|2|Ionización de llama
